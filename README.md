@@ -1,1 +1,1 @@
-# zaliczenie1
+Zaliczenie na zajęcia do końca semestru
