@@ -167,7 +167,7 @@ h1
 }
 #ltcorner
 {
-    background-color: rgb(145, 139, 139);
+    background: linear-gradient(90deg, rgb(250, 250, 250), rgb(135, 4, 4));
     color: black;
     width: 6%;
     height: 70%;
@@ -176,11 +176,11 @@ h1
 }
 #rmid
 {
-    background-color:yellow ; 
-    float: left;
+    background-color:rgb(85, 0, 255) ; 
+    float: right;
     width: auto;
     height: auto;
-    padding-left: 11px;
+    padding-left: 8px;
 }
 #mid
 {
@@ -199,8 +199,8 @@ h1
     background: linear-gradient(90deg, rgb(135, 4, 4), blue);
     width: 100%;
     height: 20%;
-    color: rgb(178, 165, 165);
-
+    color: rgb(255, 255, 255);
+    float: right;
 }
 #phone
 {
@@ -209,7 +209,23 @@ h1
     font-size:32px;
     color:black; 
 }
-
+#mail
+{
+    
+    font-size:
+}
+#ksiega
+{
+    float: left;
+    margin-left:90px;
+    margin-top: 45px;
+}
+#problem
+{
+    
+    margin-top: 60px;
+    color: red;
+}
 height: auto;
 width: auto;
 float: left;
