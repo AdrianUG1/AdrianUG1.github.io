@@ -1,0 +1,215 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+#top
+{
+    background: linear-gradient(90deg, rgb(135, 4, 4), blue);
+    width: 100%;
+    height: 20%;
+    color: rgb(178, 165, 165);
+}
+#A
+{
+    background: none;
+    border: none;
+    font-size:55px;
+    color: rgba(0, 0, 255, 0.687);
+}
+h1
+{
+    text-align: center;
+}
+#olowek
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black; 
+}
+#olowek:hover
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:white; 
+}
+#laptop
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black; 
+}
+#laptop:hover
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:white; 
+}
+#ksiazka
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black; 
+}
+#ksiazka:hover
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:white; 
+}
+#info
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black; 
+}
+#info:hover
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:white; 
+}
+#settings
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black; 
+}
+#settings:hover
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:white; 
+}
+#messages
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black; 
+}
+#messages:hover
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:white; 
+}
+#list
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black; 
+}
+#list:hover
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:white; 
+}
+#link
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black; 
+}
+#link:hover
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:white; 
+}
+#table
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black; 
+}
+#table:hover
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:white; 
+}
+#home
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black;  
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#home:hover
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:white;  
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#ltcorner
+{
+    background-color: rgb(145, 139, 139);
+    color: black;
+    width: 6%;
+    height: 70%;
+    text-align: left;
+    float: left;
+}
+#rmid
+{
+    background-color:yellow ; 
+    float: left;
+    width: auto;
+    height: auto;
+    padding-left: 11px;
+}
+#mid
+{
+    background-color: white;
+    background: linear-gradient(90deg, rgb(135, 4, 4), blue);
+    color: black;
+    float: left;
+    width: 75%;
+    height: auto;
+    text-align: center;
+    color: aliceblue;
+    
+}
+#bot
+{
+    background: linear-gradient(90deg, rgb(135, 4, 4), blue);
+    width: 100%;
+    height: 20%;
+    color: rgb(178, 165, 165);
+
+}
+#phone
+{
+    background: none;
+    border: none;
+    font-size:32px;
+    color:black; 
+}
+
+height: auto;
+width: auto;
+float: left;
